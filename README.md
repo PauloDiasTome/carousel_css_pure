@@ -10,7 +10,7 @@
 - CSS
 
 ### Teste você mesmo!
-<a href="https://paulodias-carousel-css-pure.netlify.app/" target="_blank">Clique aqui para testar carrosel!</a>
+<a href="https://paulodias-carousel-css-pure.netlify.app/" target="_blank">Clique aqui para testar carrossel!</a>
 
 
 <br/><br/><br/>
