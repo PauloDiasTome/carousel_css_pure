@@ -12,6 +12,9 @@
 ### Teste você mesmo!
 <a href="https://paulodias-carousel-css-pure.netlify.app/" target="_blank">Clique aqui para testar carrossel!</a>
 
+### Vídeo no Youtube!
+<a href="https://www.youtube.com/watch?v=H8yTkzoTHUU&t=61s" target="_blank">Clique aqui para assistir vídeo</a>
+
 
 <br/><br/><br/>
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC22R6FYBfsWi7IUCIgdYN3g) 
